@@ -26,6 +26,11 @@ Abajo de la imagen pon un único botón de 'Volver' que regrese al inicio.
 
 Diseño y Colores: Usa una paleta de colores Teal, Cian y Blanco. Nada de diseños básicos; usa sombras (BoxShadow), bordes redondeados (ClipRRect) y buen espaciado para que el diseño se vea profesional y 'bonito'."
 A new Flutter project.
+<img width="324" height="505" alt="image" src="https://github.com/user-attachments/assets/a10822a2-0334-449a-8f62-27653465fa4b" />
+<img width="320" height="502" alt="image" src="https://github.com/user-attachments/assets/f824be65-24da-4672-8711-fde7a78a03a6" />
+<img width="315" height="493" alt="image" src="https://github.com/user-attachments/assets/216deec4-bb1c-436b-a490-48fad778d255" />
+
+
 
 ## Getting Started
 
